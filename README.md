@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
     ```
 
 
-## Installation
+## Usage
 
 1. Clone the repository:
    ```bash
@@ -46,8 +46,5 @@ Before you begin, ensure you have met the following requirements:
    python Standard_Training.py
    ```
    
-4. Clone the repository:
-   ```bash
-   git clone [https:/
-   ```
+
    
