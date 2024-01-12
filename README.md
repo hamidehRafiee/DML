@@ -22,12 +22,14 @@ Before you begin, ensure you have met the following requirements:
 2. Navigate to the src directory:
   ```bash
    cd DML
+```
 
 3. Run the main script:
    ```bash
    python Standard_Training.py
-
-1. Clone the repository:
+```
+4. Clone the repository:
    ```bash
    git clone [https:/
+```
    
