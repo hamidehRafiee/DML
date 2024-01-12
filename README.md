@@ -16,6 +16,17 @@ Before you begin, ensure you have met the following requirements:
    * CUB200-2011 (http://www.vision.caltech.edu/visipedia/CUB-200.html)
    * CARS196 (https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 
+Dataset Structures
+__CUB200-2011/CARS196__
+```
+cub200/cars196
+└───images
+|    └───001.Black_footed_Albatross
+|           │   Black_Footed_Albatross_0001_796111
+|           │   ...
+|    ...
+```
+
 
 ## Installation
 
