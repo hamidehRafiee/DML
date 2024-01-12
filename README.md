@@ -27,5 +27,7 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    python Standard_Training.py
 
-
+1. Clone the repository:
+   ```bash
+   git clone [https:/
    
