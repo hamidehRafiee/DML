@@ -11,6 +11,11 @@ Explore our novel approach to deep metric learning designed for capturing subtle
 Before you begin, ensure you have met the following requirements:
 - Python 3.6
 - Required Python packages (pip install -r requirements.txt)
+  
+- download dataset  
+   * CUB200-2011 (http://www.vision.caltech.edu/visipedia/CUB-200.html)
+   * CARS196 (https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
+
 
 ## Installation
 
