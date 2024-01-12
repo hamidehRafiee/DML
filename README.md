@@ -18,10 +18,12 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone [https://github.com/your-username/deep-metric-learning.git](https://github.com/hamidehRafiee/DML.git)
    
-   # Navigate to the src directory:
+   ```bash
+2. Navigate to the src directory:
    cd DML
    
-   # Run the main script:
+   ```bash
+4. Run the main script:
    python Standard_Training.py
 
 
